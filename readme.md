@@ -1,10 +1,10 @@
-##Bedtime
+# Bedtime
 
 A project that automatically shuts down your computer at 10 PM to encourage you to go to sleep at a reasonable time.
 
 ----
 
-##How to use
+## How to use
 
 	-Make sure you have java 10 or later installed
 	-Download Bedtime.jar in the releases section of this Github page
@@ -14,11 +14,11 @@ A project that automatically shuts down your computer at 10 PM to encourage you 
 	
 ----
 
-###Your program massively malfunctioned and now I can't use my computer
+### Your program massively malfunctioned!
 
-What do I do?
+You fool! You've bricked my computer!
 
-Not to worry! (probably) You have 2 minutes from when your computer boots until it the bedtime program issues the
-shutdown command. You can force quit the program from windows task manager and then delete the jar file from your
-shell:startup folder to stop it from starting again the next time your computer boots.
+Don't worry, there's (probably) nothing to worry about! You have 2 minutes from when your computer boots until it
+the bedtime program issues the shutdown command. You can force quit the program from windows task manager and then
+delete the jar file from your shell:startup folder to stop it from starting again the next time your computer boots.
 	
